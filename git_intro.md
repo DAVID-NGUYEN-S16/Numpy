@@ -22,5 +22,5 @@ git push -u origin main
 
 git fetch dùng để tải nội dubng từ remote repository xuống mà không cập nhật ngay lập tức vào Local reponsitory
 còn git pull thì ngược lại
-git log –oneline
+git log –oneline ->> xem những thay đổi, nhật kí
 git reset là cho file trở về trạng thái ban đầu
